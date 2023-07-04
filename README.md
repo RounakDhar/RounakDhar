@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Selenium**
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Rest Assured, Cypress**
 
 - 👯 I’m looking to collaborate on **Web Automation , API Automation**
 
